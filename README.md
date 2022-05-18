@@ -26,7 +26,7 @@ Here are some ideas to get you started:
    &emsp;
    <a href="https://www.vim.org/" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/800px-Vimlogo.svg.png" alt="VIM" width="40" height="40"/> </a> 
    &emsp;
-   <a href="https://www.java.com" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+   <a href="https://aws.amazon.com/" target="blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" alt="AWS" width="40" height="40"/> </a> 
    &emsp;
    <a href="https://www.mysql.com/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>    
    &emsp;
@@ -39,4 +39,8 @@ Here are some ideas to get you started:
    <a href="https://scikit-learn.org/" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
    &emsp;
    <a href="https://www.tensorflow.org" target="blank"> <img src="https://img.icons8.com/color/480/tensorflow.png" alt="TensorFlow" width="40" height="40"/> </a> 
+   &emsp;
+   <a href="https://keras.io/" target="blank"> <img src="https://intoli.com/img/banners/keras.svg" alt="Keeras" width="40" height="40"/> </a>
+   &emsp;
+   <a href="https://bubble.io/home" target="blank"> <img src="https://s3.amazonaws.com/appforest_uf/f1530294839424x143528842134401200/Icon-no-clearspace.png" alt="Bubble" width="40" height="40"/> </a> 
 </p>
