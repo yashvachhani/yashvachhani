@@ -36,4 +36,4 @@ Here are some ideas to get you started:
    &emsp;
    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
    &emsp;
-   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="40" height="40"/> </a> </p>
+   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://w7.pngwing.com/pngs/171/176/png-transparent-tensorflow-artificial-intelligence-brand-logo-learning-flow-description-angle-text-orange.png" alt="TensorFlow" width="40" height="40"/> </a> </p>
