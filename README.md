@@ -36,4 +36,4 @@ Here are some ideas to get you started:
    &emsp;
    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
    &emsp;
-   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v63b1ab83c7ef339d4047a8b2e39f4276b23993a7a27f52a95a4e519913214950/tensorflow/images/apple-touch-icon-180x180.png" alt="TensorFlow" width="40" height="40"/> </a> </p>
+   <a href="https://www.tensorflow.org" target="_blank"> <img src=""https://www.tensorflow.org/images/tf_logo_social.png alt="TensorFlow" width="40" height="40"/> </a> </p>
