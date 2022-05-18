@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="left">
   <a href="https://www.linkedin.com/in/yashvachhani/" target="blank"><img align="center" src="https://static-exp1.licdn.com/sc/h/8a1a8xqjolkyjbf9n3i40oimj" alt="Yash Vachhani" height="40" width="40" /></a>
    &emsp;
-   <a href="yashvachhani88@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Yash Vachhani" height="40" width="40" /></a>
+   <a href="mailto:yashvachhani88@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Yash Vachhani" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
