@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yashvachhani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="kishankalariya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yashvachhani/" target="blank"><img align="center" src="https://static-exp1.licdn.com/sc/h/8a1a8xqjolkyjbf9n3i40oimj" alt="Yash Vachhani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
